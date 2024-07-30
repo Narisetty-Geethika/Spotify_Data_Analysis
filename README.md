@@ -67,7 +67,8 @@ I will be creating an exploratory analysis by creating data visualizations and c
 
 The dataset used for this analysis is the "Spotify_data.xlsx" file. 
 
-- For Dataset **Click** Here(
+- For Dataset **Click** [Here](https://github.com/Narisetty-Geethika/Spotify_Data_Analysis/blob/main/Spotify_data.xlsx)
+
 
 ## Prerequisites
 
@@ -114,3 +115,8 @@ To view the analysis **Click** [Here](https://github.com/Narisetty-Geethika/Spot
 - Visualized key insights such as the most popular artists, loudest tracks, and songs with high danceability and instrumentals, enhancing data storytelling and 
   presentation skills. 
 - Improved scalability in data cleaning, exploratory data analysis (EDA), and creating insightful visualizations to communicate findings effectively.
+
+
+
+
+# <h1 align="center"> Thank You 🤗
