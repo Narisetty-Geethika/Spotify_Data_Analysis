@@ -8,6 +8,8 @@
 - [Data Sources](#data-sources)
 - [Prerequisites](#prerequisites)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Methadology](#methadology)
+  
   
 
 ## Project Overview
@@ -84,10 +86,23 @@ EDA involved exploring the spotify data to answer key questions such as :
 
 - Top 5 most popular artists
 - Top 5 loudest tracks
-- Artist with the most danceability song
+- Top 5 Artists with the most danceability song
 - Top 10 instrumentalness tracks
 - Histogram plots for tempo, loudness, acoustiness, danceability, instrumentalness, etc.
 
 ## Methadology
 
-I will be employing several techniques using Pandas, Matplotlib, seaborn in Jupyter Notebbok to clean, filter, group data and plot to provide the opportunity for meaningful measurements and insights.
+I will be employing several techniques using Pandas, Numpy, Matplotlib, Seaborn in Jupyter Notebbok to clean, filter, group data and plot to provide the opportunity for meaningful measurements and insights.
+
+## Summary of Analysis
+
+- Top 5 artists based on popularity
+- Top 5 songs based on loudness
+- Top 5 artists with songs based on danceability
+- Top 10 songs based on instrumentalness
+- Analysis based on Popularity
+- Analysis based on Loudness
+- Analysis based on acousticness
+- Analysis based on liveness
+
+To view the analysis Click [Here](
