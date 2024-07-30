@@ -1,8 +1,19 @@
 # <h1 align="center">  An Exploratory Data Analysis of Spotify Data
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Introduction](#introduction)
+- [Audio Features](#audio-features)
+- [Data Sources](#data-sources)
+- [Prerequisites](#prerequisites)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
   
+
+### Project Overview
 This project is an Exploratory Data Analysis (EDA) on the Spotify dataset. The dataset contains information about various songs, including their features such as danceability, energy, loudness, and more. Through this analysis, we aim to gain insights into the characteristics of the songs and explore any patterns or trends.
 
-### About the Project
+### Introduction
 
 Spotify is a Swedish audio streaming and media services provider founded in April 2006. It is the world's largest music streaming service provider and has over 381 million monthly active users, which also includes 172 million paid subscribers.
 
@@ -17,7 +28,6 @@ Spotify is a perfect dataset to measure the popularity of songs against various 
 I will be creating an exploratory analysis by creating data visualizations and conducting statistical analyses to investigate the relationship between the use of non-traditional musical elements and the popularity of Spotify hits from 2000 to 2019.
 
 # **Audio Features**
-
 
 - **Track Metadata**
   
@@ -52,6 +62,9 @@ I will be creating an exploratory analysis by creating data visualizations and c
 
 - More Information on Audio Features https://developer.spotify.com/documentation/web-api/reference/get-audio-features
 
+### Data Sources
+
+The dataset used for this analysis is the "spotify_data.xlsx" file. 
 
 ## Prerequisites
 
@@ -63,3 +76,14 @@ Before running the code, make sure you have the following dependencies installed
 - NumPy
 - Matplotlib
 - Seaborn
+
+
+## Exploratory Data Analysis
+
+EDA involved exploring the spotify data to answer key questions such as :
+
+- Top 5 most popular artists
+- Top 5 loudest tracks
+- Artist with the most danceability song
+- Top 10 instrumentalness tracks
+- Histogram plots for tempo, loudness, acoustiness, danceability, instrumentalness, etc.
