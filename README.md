@@ -9,9 +9,10 @@
 - [Prerequisites](#prerequisites)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Methadology](#methadology)
+- [Summary of Analysis](#summary-of-analysis)
+- [Conclusion](#conclusion)
   
   
-
 ## Project Overview
 This project is an Exploratory Data Analysis (EDA) on the Spotify dataset. The dataset contains information about various songs, including their features such as danceability, energy, loudness, and more. Through this analysis, we aim to gain insights into the characteristics of the songs and explore any patterns or trends.
 
@@ -105,4 +106,11 @@ I will be employing several techniques using Pandas, Numpy, Matplotlib, Seaborn 
 - Analysis based on acousticness
 - Analysis based on liveness
 
-To view the analysis Click [Here](
+To view the analysis **Click** [Here](https://github.com/Narisetty-Geethika/Spotify_Data_Analysis/blob/main/Spotify%20Analysis.ipynb)
+
+## Conclusion
+- Conducted an extensive analysis of a Spotify dataset to identify trends in song attributes and artist popularity using Python (Pandas, NumPy) and data 
+  visualization tools (Seaborn, Matplotlib).
+- Visualized key insights such as the most popular artists, loudest tracks, and songs with high danceability and instrumentals, enhancing data storytelling and 
+  presentation skills. 
+- Improved scalability in data cleaning, exploratory data analysis (EDA), and creating insightful visualizations to communicate findings effectively.
