@@ -22,7 +22,7 @@ Spotify is a digital music streaming service that provides users access to over 
 
 ![Banner](https://github.com/user-attachments/assets/097a127a-19ce-42ec-a5f0-1ea8b8a32acf)
  
-Spotify measures the popularity of its' artists based on their monthly listeners and number of streams they receive on songs produced. These streams are then multipled by (0.003) and paid to artists as "Royalties", it is a modernized system of monetizing digital sales from traditional album sales (100 streams = 1 album). Ed Sheeran was Spotify's most streamed artist in 2019, however, the rank placements change rapidly depending on album relases, EP's, mixtapes and so forth!
+Spotify measures the popularity of its' artists based on their monthly listeners and number of streams they receive on songs produced. These streams are then multipled by (0.003) and paid to artists as "Royalties", it is a modernized system of monetizing digital sales from traditional album sales (100 streams = 1 album). "Drake" was Spotify's most streamed artist in 2022, however, the rank placements change rapidly depending on album relases, EP's, mixtapes and so forth!
 
 Spotify is a perfect dataset to measure the popularity of songs against various music elements, across a large set of songs throughout the decades. This analysis can be used to demonstrate how peoples music tastes have been translated throughout the past two decades!
 
