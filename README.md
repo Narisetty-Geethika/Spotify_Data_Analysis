@@ -64,7 +64,7 @@ I will be creating an exploratory analysis by creating data visualizations and c
 
 ## Data Sources
 
-The dataset used for this analysis is the "spotify_data.xlsx" file. 
+The dataset used for this analysis is the "Spotify_data.xlsx" file. 
 
 ## Prerequisites
 
@@ -87,3 +87,7 @@ EDA involved exploring the spotify data to answer key questions such as :
 - Artist with the most danceability song
 - Top 10 instrumentalness tracks
 - Histogram plots for tempo, loudness, acoustiness, danceability, instrumentalness, etc.
+
+## Methadology
+
+I will be employing several techniques using Pandas, Matplotlib, seaborn in Jupyter Notebbok to clean, filter, group data and plot to provide the opportunity for meaningful measurements and insights.
