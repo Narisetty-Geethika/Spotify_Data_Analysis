@@ -94,7 +94,7 @@ EDA involved exploring the spotify data to answer key questions such as :
 
 ## Methadology
 
-I will be employing several techniques using Pandas, Numpy, Matplotlib, Seaborn in Jupyter Notebbok to clean, filter, group data and plot to provide the opportunity for meaningful measurements and insights.
+I will be employing several techniques using Pandas, Numpy, Matplotlib, Seaborn in Jupyter Notebook to clean, filter, group data and plot to provide the opportunity for meaningful measurements and insights.
 
 ## Summary of Analysis
 
